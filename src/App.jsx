@@ -9,9 +9,9 @@ import "./App.css"
 function App() {
   return (
     <div className="flex flex-col gap-3">
-      <Navbar />
-      <Section />
-      <Hero />
+      <Navbar/>
+      <Section/>
+      <Hero/>
       <Base/>
       <Footer/>
     </div>

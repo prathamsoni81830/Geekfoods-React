@@ -3,7 +3,7 @@ function Section(){
     <>
   <div className="section">
     <div className="section-img">
-      <img src="https://amazingarchitecture.com/storage/1868/responsive-images/wooden_living_room___media_library_original_1344_756.jpg"></img>
+      <img src="./src/section.jpg"></img>
     </div>
       <div className="section-h1">
         <h1 style={{marginBottom:"-10px",fontWeight:"bolder"}}>Let us find your</h1>
