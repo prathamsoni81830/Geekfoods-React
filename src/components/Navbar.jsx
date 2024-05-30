@@ -3,7 +3,7 @@ function Navbar (){
     <>
     <div className="navbar">
     <div className="nav1">
-    <img src="https://flowbite.com/docs/images/logo.svg"></img>
+    <img src="logo.svg"></img>
     <h2 style={{marginLeft:"5px"}}>GeekFoods</h2>
     </div>
     <div className="nav2">
